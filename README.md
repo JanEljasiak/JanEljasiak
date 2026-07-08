@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+Contact : https://www.linkedin.com/in/jan-eljasiak-2b8b91198/
 <!--
 **JanEljasiak/JanEljasiak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
